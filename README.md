@@ -33,3 +33,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 Happy analyzing and exploring the data with the Excel dashboard!
+
+
+Made By Shivam singh uikey 
+Skills Used:  Data Analysis | Data Visualization
+Tools Used: Excel, SQL
+Objective: Designed to help tourism businesses optimize visitor revenue strategies.
+Connect-uikeyshivamsingh14.02@gmail.com
